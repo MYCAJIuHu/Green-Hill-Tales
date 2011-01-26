@@ -1,0 +1,9 @@
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\CGT Creator\CGT Creator\bin\Debug\CGT Creator.exe
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\CGT Creator\CGT Creator\bin\Debug\CGT Creator.pdb
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\CGT Creator\CGT Creator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\CGT Creator\CGT Creator\obj\x86\Debug\CGT_Creator.Form1.resources
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\CGT Creator\CGT Creator\obj\x86\Debug\CGT_Creator.Properties.Resources.resources
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\CGT Creator\CGT Creator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\CGT Creator\CGT Creator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\CGT Creator\CGT Creator\obj\x86\Debug\CGT Creator.exe
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\CGT Creator\CGT Creator\obj\x86\Debug\CGT Creator.pdb

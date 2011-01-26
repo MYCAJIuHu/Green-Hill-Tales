@@ -3,5 +3,3 @@ C:\Documents and Settings\Администратор\мои документы\v
 C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\CONSOLE-The Game\CONSOLE-The Game\bin\Debug\CONSOLE-The Game.pdb
 C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\CONSOLE-The Game\CONSOLE-The Game\obj\x86\Debug\CONSOLE-The Game.exe
 C:\Documents and Settings\Администратор\мои документы\visual studio 2010\Projects\CONSOLE-The Game\CONSOLE-The Game\obj\x86\Debug\CONSOLE-The Game.pdb
-D:\Green-Hill-Tales\obj\x86\Debug\CONSOLE-The Game.exe
-D:\Green-Hill-Tales\obj\x86\Debug\CONSOLE-The Game.pdb

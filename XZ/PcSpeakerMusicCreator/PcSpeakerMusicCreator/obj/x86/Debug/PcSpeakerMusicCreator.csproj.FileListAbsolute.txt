@@ -1,0 +1,10 @@
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\PcSpeakerMusicCreator\PcSpeakerMusicCreator\bin\Debug\PCSMC.exe
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\PcSpeakerMusicCreator\PcSpeakerMusicCreator\bin\Debug\PCSMC.pdb
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\PcSpeakerMusicCreator\PcSpeakerMusicCreator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\PcSpeakerMusicCreator\PcSpeakerMusicCreator\obj\x86\Debug\PcSpeakerMusicCreator.Form1.resources
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\PcSpeakerMusicCreator\PcSpeakerMusicCreator\obj\x86\Debug\PcSpeakerMusicCreator.Properties.Resources.resources
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\PcSpeakerMusicCreator\PcSpeakerMusicCreator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\PcSpeakerMusicCreator\PcSpeakerMusicCreator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\PcSpeakerMusicCreator\PcSpeakerMusicCreator\obj\x86\Debug\PCSMC.exe
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\PcSpeakerMusicCreator\PcSpeakerMusicCreator\obj\x86\Debug\PCSMC.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2010\Projects\PcSpeakerMusicCreator\PcSpeakerMusicCreator\obj\x86\Debug\PcSpeakerMusicCreator.Notes.resources

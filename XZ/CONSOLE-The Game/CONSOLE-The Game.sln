@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CONSOLE-The Game", "CONSOLE-The Game\CONSOLE-The Game.csproj", "{1BFC6ED4-DE7A-4768-8A05-F91C089F9252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcSpeakerMusicCreator", "..\PcSpeakerMusicCreator\PcSpeakerMusicCreator\PcSpeakerMusicCreator.csproj", "{89D88370-9BB6-48F5-89C6-BC71C0C50EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGT Creator", "..\CGT Creator\CGT Creator\CGT Creator.csproj", "{12C0ECED-22DE-47FB-A1F5-C21137FDFE7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BFC6ED4-DE7A-4768-8A05-F91C089F9252}.Debug|x86.ActiveCfg = Debug|x86
+		{1BFC6ED4-DE7A-4768-8A05-F91C089F9252}.Debug|x86.Build.0 = Debug|x86
+		{1BFC6ED4-DE7A-4768-8A05-F91C089F9252}.Release|x86.ActiveCfg = Release|x86
+		{1BFC6ED4-DE7A-4768-8A05-F91C089F9252}.Release|x86.Build.0 = Release|x86
+		{89D88370-9BB6-48F5-89C6-BC71C0C50EB5}.Debug|x86.ActiveCfg = Debug|x86
+		{89D88370-9BB6-48F5-89C6-BC71C0C50EB5}.Debug|x86.Build.0 = Debug|x86
+		{89D88370-9BB6-48F5-89C6-BC71C0C50EB5}.Release|x86.ActiveCfg = Release|x86
+		{89D88370-9BB6-48F5-89C6-BC71C0C50EB5}.Release|x86.Build.0 = Release|x86
+		{12C0ECED-22DE-47FB-A1F5-C21137FDFE7C}.Debug|x86.ActiveCfg = Debug|x86
+		{12C0ECED-22DE-47FB-A1F5-C21137FDFE7C}.Debug|x86.Build.0 = Debug|x86
+		{12C0ECED-22DE-47FB-A1F5-C21137FDFE7C}.Release|x86.ActiveCfg = Release|x86
+		{12C0ECED-22DE-47FB-A1F5-C21137FDFE7C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
